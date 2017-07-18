@@ -1,0 +1,1283 @@
+{
+  "lscd": [
+    {
+      "mscd": {
+        "mon": "July",
+        "g": [
+          {
+            "gid": "1421700001",
+            "gcode": "20170701/CHAMIA",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-01",
+            "htm": "2017-07-01T11:00:00",
+            "vtm": "2017-07-01T11:00:00",
+            "etm": "2017-07-01T11:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612766,
+              "re": "1-0",
+              "ta": "CHA",
+              "tn": "Hornets",
+              "tc": "Charlotte",
+              "s": "74"
+            },
+            "h": {
+              "tid": 1610612748,
+              "re": "0-1",
+              "ta": "MIA",
+              "tn": "Heat",
+              "tc": "Miami",
+              "s": "67"
+            },
+            "gdtutc": "2017-07-01",
+            "utctm": "15:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627855",
+                  "fn": "Okaro",
+                  "ln": "White",
+                  "val": "20",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                }
+              ]
+            },
+            "seq": 1
+          },
+          {
+            "gid": "1421700002",
+            "gcode": "20170701/ORLIND",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-01",
+            "htm": "2017-07-01T13:00:00",
+            "vtm": "2017-07-01T13:00:00",
+            "etm": "2017-07-01T13:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612753,
+              "re": "0-1",
+              "ta": "ORL",
+              "tn": "Magic",
+              "tc": "Orlando",
+              "s": "74"
+            },
+            "h": {
+              "tid": 1610612754,
+              "re": "1-0",
+              "ta": "IND",
+              "tn": "Pacers",
+              "tc": "Indiana",
+              "s": "85"
+            },
+            "gdtutc": "2017-07-01",
+            "utctm": "17:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202727",
+                  "fn": "Travis",
+                  "ln": "Leslie",
+                  "val": "20",
+                  "tid": 1610612754,
+                  "ta": "IND",
+                  "tn": "Pacers",
+                  "tc": "Indiana"
+                }
+              ]
+            },
+            "seq": 2
+          },
+          {
+            "gid": "1421700003",
+            "gcode": "20170701/NYKDAL",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-01",
+            "htm": "2017-07-01T15:00:00",
+            "vtm": "2017-07-01T15:00:00",
+            "etm": "2017-07-01T15:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
+                  "disp": "KTXA",
+                  "scope": "home",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 3,
+                  "disp": "MSG",
+                  "scope": "away",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612752,
+              "re": "0-1",
+              "ta": "NYK",
+              "tn": "Knicks",
+              "tc": "New York",
+              "s": "75"
+            },
+            "h": {
+              "tid": 1610612742,
+              "re": "1-0",
+              "ta": "DAL",
+              "tn": "Mavericks",
+              "tc": "Dallas",
+              "s": "80"
+            },
+            "gdtutc": "2017-07-01",
+            "utctm": "19:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202779",
+                  "fn": "Dwight",
+                  "ln": "Buycks",
+                  "val": "16",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                }
+              ]
+            },
+            "seq": 3
+          },
+          {
+            "gid": "1421700004",
+            "gcode": "20170701/OKCDET",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-01",
+            "htm": "2017-07-01T17:00:00",
+            "vtm": "2017-07-01T17:00:00",
+            "etm": "2017-07-01T17:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612760,
+              "re": "1-0",
+              "ta": "OKC",
+              "tn": "Thunder",
+              "tc": "Oklahoma City",
+              "s": "92"
+            },
+            "h": {
+              "tid": 1610612765,
+              "re": "0-1",
+              "ta": "DET",
+              "tn": "Pistons",
+              "tc": "Detroit",
+              "s": "91"
+            },
+            "gdtutc": "2017-07-01",
+            "utctm": "21:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626205",
+                  "fn": "Vincent",
+                  "ln": "Hunter",
+                  "val": "21",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                },
+                {
+                  "pid": "1627740",
+                  "fn": "Henry",
+                  "ln": "Ellenson",
+                  "val": "21",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
+            "seq": 4
+          },
+          {
+            "gid": "1421700005",
+            "gcode": "20170702/NYKDET",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-02",
+            "htm": "2017-07-02T13:00:00",
+            "vtm": "2017-07-02T13:00:00",
+            "etm": "2017-07-02T13:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
+                  "disp": "MSG",
+                  "scope": "away",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612752,
+              "re": "0-2",
+              "ta": "NYK",
+              "tn": "Knicks",
+              "tc": "New York",
+              "s": "78"
+            },
+            "h": {
+              "tid": 1610612765,
+              "re": "1-1",
+              "ta": "DET",
+              "tn": "Pistons",
+              "tc": "Detroit",
+              "s": "103"
+            },
+            "gdtutc": "2017-07-02",
+            "utctm": "17:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626184",
+                  "fn": "Chasson",
+                  "ln": "Randle",
+                  "val": "16",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
+            "seq": 1
+          },
+          {
+            "gid": "1421700006",
+            "gcode": "20170702/ORLMIA",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-02",
+            "htm": "2017-07-02T15:00:00",
+            "vtm": "2017-07-02T15:00:00",
+            "etm": "2017-07-02T15:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612753,
+              "re": "1-1",
+              "ta": "ORL",
+              "tn": "Magic",
+              "tc": "Orlando",
+              "s": "81"
+            },
+            "h": {
+              "tid": 1610612748,
+              "re": "0-2",
+              "ta": "MIA",
+              "tn": "Heat",
+              "tc": "Miami",
+              "s": "68"
+            },
+            "gdtutc": "2017-07-02",
+            "utctm": "19:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627855",
+                  "fn": "Okaro",
+                  "ln": "White",
+                  "val": "15",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                },
+                {
+                  "pid": "1628371",
+                  "fn": "Jonathan",
+                  "ln": "Isaac",
+                  "val": "15",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
+            "seq": 2
+          },
+          {
+            "gid": "1421700007",
+            "gcode": "20170702/INDCHA",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-02",
+            "htm": "2017-07-02T17:00:00",
+            "vtm": "2017-07-02T17:00:00",
+            "etm": "2017-07-02T17:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612754,
+              "re": "2-0",
+              "ta": "IND",
+              "tn": "Pacers",
+              "tc": "Indiana",
+              "s": "84"
+            },
+            "h": {
+              "tid": 1610612766,
+              "re": "1-1",
+              "ta": "CHA",
+              "tn": "Hornets",
+              "tc": "Charlotte",
+              "s": "77"
+            },
+            "gdtutc": "2017-07-02",
+            "utctm": "21:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202727",
+                  "fn": "Travis",
+                  "ln": "Leslie",
+                  "val": "20",
+                  "tid": 1610612754,
+                  "ta": "IND",
+                  "tn": "Pacers",
+                  "tc": "Indiana"
+                }
+              ]
+            },
+            "seq": 3
+          },
+          {
+            "gid": "1421700008",
+            "gcode": "20170703/NYKOKC",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-03",
+            "htm": "2017-07-03T13:00:00",
+            "vtm": "2017-07-03T13:00:00",
+            "etm": "2017-07-03T13:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
+                  "disp": "MSG",
+                  "scope": "away",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612752,
+              "re": "0-3",
+              "ta": "NYK",
+              "tn": "Knicks",
+              "tc": "New York",
+              "s": "87"
+            },
+            "h": {
+              "tid": 1610612760,
+              "re": "2-0",
+              "ta": "OKC",
+              "tn": "Thunder",
+              "tc": "Oklahoma City",
+              "s": "99"
+            },
+            "gdtutc": "2017-07-03",
+            "utctm": "17:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203962",
+                  "fn": "Josh",
+                  "ln": "Huestis",
+                  "val": "26",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                }
+              ]
+            },
+            "seq": 1
+          },
+          {
+            "gid": "1421700009",
+            "gcode": "20170703/ORLDAL",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-03",
+            "htm": "2017-07-03T15:00:00",
+            "vtm": "2017-07-03T15:00:00",
+            "etm": "2017-07-03T15:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612753,
+              "re": "1-2",
+              "ta": "ORL",
+              "tn": "Magic",
+              "tc": "Orlando",
+              "s": "76"
+            },
+            "h": {
+              "tid": 1610612742,
+              "re": "2-0",
+              "ta": "DAL",
+              "tn": "Mavericks",
+              "tc": "Dallas",
+              "s": "86"
+            },
+            "gdtutc": "2017-07-03",
+            "utctm": "19:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202779",
+                  "fn": "Dwight",
+                  "ln": "Buycks",
+                  "val": "20",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                },
+                {
+                  "pid": "1627875",
+                  "fn": "Marcus",
+                  "ln": "Georges-Hunt",
+                  "val": "20",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
+            "seq": 2
+          },
+          {
+            "gid": "1421700010",
+            "gcode": "20170703/INDMIA",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-03",
+            "htm": "2017-07-03T17:00:00",
+            "vtm": "2017-07-03T17:00:00",
+            "etm": "2017-07-03T17:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612754,
+              "re": "3-0",
+              "ta": "IND",
+              "tn": "Pacers",
+              "tc": "Indiana",
+              "s": "86"
+            },
+            "h": {
+              "tid": 1610612748,
+              "re": "0-3",
+              "ta": "MIA",
+              "tn": "Heat",
+              "tc": "Miami",
+              "s": "83"
+            },
+            "gdtutc": "2017-07-03",
+            "utctm": "21:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1628389",
+                  "fn": "Bam",
+                  "ln": "Adebayo",
+                  "val": "29",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                }
+              ]
+            },
+            "seq": 3
+          },
+          {
+            "gid": "1421700011",
+            "gcode": "20170704/CHAOKC",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-04",
+            "htm": "2017-07-04T13:00:00",
+            "vtm": "2017-07-04T13:00:00",
+            "etm": "2017-07-04T13:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612766,
+              "re": "2-1",
+              "ta": "CHA",
+              "tn": "Hornets",
+              "tc": "Charlotte",
+              "s": "95"
+            },
+            "h": {
+              "tid": 1610612760,
+              "re": "2-1",
+              "ta": "OKC",
+              "tn": "Thunder",
+              "tc": "Oklahoma City",
+              "s": "81"
+            },
+            "gdtutc": "2017-07-04",
+            "utctm": "17:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1626203",
+                  "fn": "Treveon",
+                  "ln": "Graham",
+                  "val": "19",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
+            "seq": 1
+          },
+          {
+            "gid": "1421700012",
+            "gcode": "20170704/INDDAL",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-04",
+            "htm": "2017-07-04T15:00:00",
+            "vtm": "2017-07-04T15:00:00",
+            "etm": "2017-07-04T15:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612754,
+              "re": "3-1",
+              "ta": "IND",
+              "tn": "Pacers",
+              "tc": "Indiana",
+              "s": "79"
+            },
+            "h": {
+              "tid": 1610612742,
+              "re": "3-0",
+              "ta": "DAL",
+              "tn": "Mavericks",
+              "tc": "Dallas",
+              "s": "94"
+            },
+            "gdtutc": "2017-07-04",
+            "utctm": "19:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627866",
+                  "fn": "Jameel",
+                  "ln": "Warney",
+                  "val": "17",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                }
+              ]
+            },
+            "seq": 2
+          },
+          {
+            "gid": "1421700013",
+            "gcode": "20170704/MIADET",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-04",
+            "htm": "2017-07-04T17:00:00",
+            "vtm": "2017-07-04T17:00:00",
+            "etm": "2017-07-04T17:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612748,
+              "re": "0-4",
+              "ta": "MIA",
+              "tn": "Heat",
+              "tc": "Miami",
+              "s": "71"
+            },
+            "h": {
+              "tid": 1610612765,
+              "re": "2-1",
+              "ta": "DET",
+              "tn": "Pistons",
+              "tc": "Detroit",
+              "s": "73"
+            },
+            "gdtutc": "2017-07-04",
+            "utctm": "21:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627855",
+                  "fn": "Okaro",
+                  "ln": "White",
+                  "val": "29",
+                  "tid": 1610612748,
+                  "ta": "MIA",
+                  "tn": "Heat",
+                  "tc": "Miami"
+                }
+              ]
+            },
+            "seq": 3
+          },
+          {
+            "gid": "1421700014",
+            "gcode": "20170705/DALOKC",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-05",
+            "htm": "2017-07-05T13:00:00",
+            "vtm": "2017-07-05T13:00:00",
+            "etm": "2017-07-05T13:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612742,
+              "re": "4-0",
+              "ta": "DAL",
+              "tn": "Mavericks",
+              "tc": "Dallas",
+              "s": "96"
+            },
+            "h": {
+              "tid": 1610612760,
+              "re": "2-2",
+              "ta": "OKC",
+              "tn": "Thunder",
+              "tc": "Oklahoma City",
+              "s": "75"
+            },
+            "gdtutc": "2017-07-05",
+            "utctm": "17:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203464",
+                  "fn": "Brandon",
+                  "ln": "Paul",
+                  "val": "20",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                }
+              ]
+            },
+            "seq": 1
+          },
+          {
+            "gid": "1421700015",
+            "gcode": "20170705/CHADET",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-05",
+            "htm": "2017-07-05T15:00:00",
+            "vtm": "2017-07-05T15:00:00",
+            "etm": "2017-07-05T15:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612766,
+              "re": "2-2",
+              "ta": "CHA",
+              "tn": "Hornets",
+              "tc": "Charlotte",
+              "s": "82"
+            },
+            "h": {
+              "tid": 1610612765,
+              "re": "3-1",
+              "ta": "DET",
+              "tn": "Pistons",
+              "tc": "Detroit",
+              "s": "87"
+            },
+            "gdtutc": "2017-07-05",
+            "utctm": "19:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1627740",
+                  "fn": "Henry",
+                  "ln": "Ellenson",
+                  "val": "29",
+                  "tid": 1610612765,
+                  "ta": "DET",
+                  "tn": "Pistons",
+                  "tc": "Detroit"
+                }
+              ]
+            },
+            "seq": 2
+          },
+          {
+            "gid": "1421700016",
+            "gcode": "20170705/ORLNYK",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-05",
+            "htm": "2017-07-05T17:00:00",
+            "vtm": "2017-07-05T17:00:00",
+            "etm": "2017-07-05T17:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
+                  "disp": "MSG",
+                  "scope": "home",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612753,
+              "re": "2-2",
+              "ta": "ORL",
+              "tn": "Magic",
+              "tc": "Orlando",
+              "s": "84"
+            },
+            "h": {
+              "tid": 1610612752,
+              "re": "0-4",
+              "ta": "NYK",
+              "tn": "Knicks",
+              "tc": "New York",
+              "s": "73"
+            },
+            "gdtutc": "2017-07-05",
+            "utctm": "21:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203564",
+                  "fn": "Kalin",
+                  "ln": "Lucas",
+                  "val": "20",
+                  "tid": 1610612753,
+                  "ta": "ORL",
+                  "tn": "Magic",
+                  "tc": "Orlando"
+                }
+              ]
+            },
+            "seq": 3
+          },
+          {
+            "gid": "1421700017",
+            "gcode": "20170706/NYKMIA",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-06",
+            "htm": "2017-07-06T08:00:00",
+            "vtm": "2017-07-06T08:00:00",
+            "etm": "2017-07-06T08:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                },
+                {
+                  "seq": 2,
+                  "disp": "MSG",
+                  "scope": "away",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612752,
+              "re": "1-4",
+              "ta": "NYK",
+              "tn": "Knicks",
+              "tc": "New York",
+              "s": "91"
+            },
+            "h": {
+              "tid": 1610612748,
+              "re": "0-5",
+              "ta": "MIA",
+              "tn": "Heat",
+              "tc": "Miami",
+              "s": "72"
+            },
+            "gdtutc": "2017-07-06",
+            "utctm": "12:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1628422",
+                  "fn": "Damyean",
+                  "ln": "Dotson",
+                  "val": "20",
+                  "tid": 1610612752,
+                  "ta": "NYK",
+                  "tn": "Knicks",
+                  "tc": "New York"
+                }
+              ]
+            },
+            "seq": 1
+          },
+          {
+            "gid": "1421700018",
+            "gcode": "20170706/CHAORL",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-06",
+            "htm": "2017-07-06T10:00:00",
+            "vtm": "2017-07-06T10:00:00",
+            "etm": "2017-07-06T10:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612766,
+              "re": "3-2",
+              "ta": "CHA",
+              "tn": "Hornets",
+              "tc": "Charlotte",
+              "s": "86"
+            },
+            "h": {
+              "tid": 1610612753,
+              "re": "2-3",
+              "ta": "ORL",
+              "tn": "Magic",
+              "tc": "Orlando",
+              "s": "78"
+            },
+            "gdtutc": "2017-07-06",
+            "utctm": "14:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "1628407",
+                  "fn": "Dwayne",
+                  "ln": "Bacon",
+                  "val": "29",
+                  "tid": 1610612766,
+                  "ta": "CHA",
+                  "tn": "Hornets",
+                  "tc": "Charlotte"
+                }
+              ]
+            },
+            "seq": 2
+          },
+          {
+            "gid": "1421700019",
+            "gcode": "20170706/OKCIND",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-06",
+            "htm": "2017-07-06T12:00:00",
+            "vtm": "2017-07-06T12:00:00",
+            "etm": "2017-07-06T12:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612760,
+              "re": "2-3",
+              "ta": "OKC",
+              "tn": "Thunder",
+              "tc": "Oklahoma City",
+              "s": "80"
+            },
+            "h": {
+              "tid": 1610612754,
+              "re": "4-1",
+              "ta": "IND",
+              "tn": "Pacers",
+              "tc": "Indiana",
+              "s": "89"
+            },
+            "gdtutc": "2017-07-06",
+            "utctm": "16:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "203902",
+                  "fn": "Semaj",
+                  "ln": "Christon",
+                  "val": "21",
+                  "tid": 1610612760,
+                  "ta": "OKC",
+                  "tn": "Thunder",
+                  "tc": "Oklahoma City"
+                }
+              ]
+            },
+            "seq": 3
+          },
+          {
+            "gid": "1421700020",
+            "gcode": "20170706/DETDAL",
+            "seri": "",
+            "is": 1,
+            "gdte": "2017-07-06",
+            "htm": "2017-07-06T14:00:00",
+            "vtm": "2017-07-06T14:00:00",
+            "etm": "2017-07-06T14:00:00",
+            "an": "Amway Center",
+            "ac": "Orlando",
+            "as": "FL",
+            "st": "3",
+            "stt": "Final",
+            "bd": {
+              "b": [
+                {
+                  "seq": 1,
+                  "disp": "NBATV",
+                  "scope": "natl",
+                  "type": "tv",
+                  "lan": "English"
+                }
+              ]
+            },
+            "v": {
+              "tid": 1610612765,
+              "re": "3-2",
+              "ta": "DET",
+              "tn": "Pistons",
+              "tc": "Detroit",
+              "s": "81"
+            },
+            "h": {
+              "tid": 1610612742,
+              "re": "5-0",
+              "ta": "DAL",
+              "tn": "Mavericks",
+              "tc": "Dallas",
+              "s": "83"
+            },
+            "gdtutc": "2017-07-06",
+            "utctm": "18:00",
+            "ppdst": "I",
+            "ptsls": {
+              "pl": [
+                {
+                  "pid": "202779",
+                  "fn": "Dwight",
+                  "ln": "Buycks",
+                  "val": "28",
+                  "tid": 1610612742,
+                  "ta": "DAL",
+                  "tn": "Mavericks",
+                  "tc": "Dallas"
+                }
+              ]
+            },
+            "seq": 4
+          }
+        ]
+      }
+    }
+  ]
+}
